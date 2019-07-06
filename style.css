@@ -5,6 +5,13 @@ body {
   margin: 0 auto;
 }
 
+main {
+  width: 800px;
+  margin: 0px;
+  border: 5px;  
+ 
+}
+
 .sender-column {
   text-align: right;
 }
